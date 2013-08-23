@@ -14,6 +14,6 @@ And you're done! No addtional set up required. You can start coding Vanilla Java
 ### Authors and Contributors
 Colyn Brown - (@colynb)
 
-No contributers. If you'd like to contribute (adding new features and fixing bugs), fork the repo and hack away, then submit a pull request.
+No contributors. If you'd like to contribute (adding new features and fixing bugs), fork the repo and hack away, then submit a pull request.
 
 
