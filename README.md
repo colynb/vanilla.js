@@ -14,6 +14,12 @@ And you're done! No addtional set up required. You can start coding Vanilla Java
 ### Browser Support
 It's been tested in all modern browsers. With one exception, as of version 1, IE is still not supported. Our team is diligently pursuing not looking into it. 
 
+### Node.js Support
+Our team is proud to announce support for Node.js!
+```
+var vanilla = require('./path/to/vanilla');
+```
+
 ### Authors and Contributors
 Colyn Brown - (@colynb)
 
