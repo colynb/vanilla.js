@@ -1,5 +1,5 @@
 /*!
- * Vanilla.js JavaScript Library v0.3.0
+ * Vanilla.js JavaScript Library v0.4.0
  * http://colynb.com/vanilla.js/
  *
  * Copyright 2011, 2012, 2013 Colyn Brown
