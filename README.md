@@ -1,7 +1,7 @@
 vanilla.js
 ==========
 
-The lightest, fastest JS framework... only 0 bytes (minified)!
+The lightest, fastest, most unopinionated Javascript framework... only 0 bytes (minified)! 
 
 Simply include vanilla.js
 
@@ -10,6 +10,7 @@ Simply include vanilla.js
 ```
 
 And you're done! No addtional set up required. You can start coding Vanilla Javascript now!
+
 ### Browser Support
 It's been tested in all modern browsers. With one exception, as of version 1, IE is still not supported. Our team is diligently pursuing not looking into it. 
 
