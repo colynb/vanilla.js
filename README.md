@@ -10,6 +10,8 @@ Simply include vanilla.js
 ```
 
 And you're done! No addtional set up required. You can start coding Vanilla Javascript now!
+### Browser Support
+It's been tested in all modern browsers. With one exception, as of version 1, IE is still not supported. Our team is diligently pursuing not looking into it. 
 
 ### Authors and Contributors
 Colyn Brown - (@colynb)
